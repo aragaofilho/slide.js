@@ -1,0 +1,23 @@
+{
+  "name": "slide.js",
+  "homepage": "https://github.com/aragaofilho/slide.js",
+  "authors": [
+    "Paulo Aragão <pauloaragao.filho@gmail.com>"
+  ],
+  "description": "Um slide simples visando aprimoramento de minhas habilidades com JavaScript e jQuery",
+  "main": "",
+  "keywords": [
+    "slideshow"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.1.1"
+  }
+}
